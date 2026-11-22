@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+*.log
+
+# personal settings stay on your machine (set them in Vercel instead);
+# .env.example is the template that does get committed
+.env
+.env*.local
+
+# Vercel CLI link (holds project ids)
+.vercel
+
+# editor / tool folders
+.claude
+.qodo
